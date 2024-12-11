@@ -1,0 +1,13 @@
+{
+  "USDT": "0x55d398326f99059fF775485246999027B3197955",
+  "STAS": "0xB9aed3b5360a3D08804A7b9Eb8c101108E6f7479",
+  "FactoryContract": "0x0eeD20b077aeEc032BaeE8b85026A148baf94d2a",
+  "DonationContract": "0x5fd31ffD212bfA3366d7C1E3bE58d56d39901CD8",
+  "RelationshipContract": "0x0a3f93F878B2C0aeC40089D5d4f326362986Cc0d",
+  "MiningPool": "0x10BEEB0f878EA198852173BDc306B84424656CA4",
+  "superior": "0xc419D3100AE886D3F9C839756b4a864dD2F3a097",
+  "BSCRPC": "https://bscrpc.com",
+  "TESTNETRPC": "https://data-seed-prebsc-1-s1.binance.org:8545/",
+  "grade": 3,
+  "switch":  true
+}
